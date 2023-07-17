@@ -203,6 +203,17 @@ padding: 30px;
 }
 /* sec4 ends */
 
+/* footer starts */
+.footer-container{
+    width: 60%;
+    height: 100px;
+    background-color: #FFF4E7;
+margin: 130px auto;
+text-align: center;
+padding-top: 60px;
+  
+}
+
 
 
 
