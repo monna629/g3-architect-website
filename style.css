@@ -1,0 +1,28 @@
+*{
+        font-family: 'Work Sans', sans-serif;
+}
+/* header section starts */
+h2{
+    color:  #131313;
+    font-size: 45px;
+    font-weight: 700;
+}
+ul li{
+    list-style: none;
+    color: #424242;
+    font-size: 18px;
+    font-weight: 500;
+
+}
+a{
+    color: #424242;
+    text-decoration: none;
+}
+.nav-ul{
+    display: flex;
+    gap: 30px;
+}
+.nav-container{
+    display: flex;
+    justify-content: space-evenly;
+}
